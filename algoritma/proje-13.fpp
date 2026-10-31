@@ -17,8 +17,8 @@ START
 
 id2
 2       	 <--TYPE
-688       	 <--LEFT
-812       	 <--TOP
+510       	 <--LEFT
+761       	 <--TOP
 70       	 <--WIDTH
 30       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -137,8 +137,8 @@ kalan
 bolum
 id10
 0       	 <--TYPE
-484       	 <--LEFT
-659       	 <--TOP
+432       	 <--LEFT
+622       	 <--TOP
 164       	 <--WIDTH
 30       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -152,8 +152,8 @@ kalan
 kalan
 id11
 91       	 <--TYPE
-759       	 <--LEFT
-582       	 <--TOP
+675       	 <--LEFT
+593       	 <--TOP
 188       	 <--WIDTH
 40       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
@@ -167,8 +167,8 @@ bolum
 
 id12
 91       	 <--TYPE
-808       	 <--LEFT
-808       	 <--TOP
+662       	 <--LEFT
+743       	 <--TOP
 180       	 <--WIDTH
 40       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
