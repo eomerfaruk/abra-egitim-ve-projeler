@@ -25,8 +25,8 @@ class App(QMainWindow): #  uygulama için class yapıldı QMainWindow inherit ed
         editMenu= anaMenu.addMenu("Edit")
         viewMenu = anaMenu.addMenu("view")
         newProject = fileMenu.addMenu("new")
-        
         tiklamaButon = QAction("tikla"  ,self)
+        newProject.addAction(tiklamaButon)
         tiklamaButon.triggered.connect(self.tiklandi)
         newProject.addAction(tiklamaButon)
 
